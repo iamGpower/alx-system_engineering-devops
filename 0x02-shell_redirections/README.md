@@ -8,3 +8,5 @@
 * Displaying the content of /etc/passwd and /etc/hosts.
 ## 4-lastlines
 * Displaying the last 10 lines of /etc/passwd.
+## 5-firstlines
+* Displaying the first 10 lines of /etc/passwd.
